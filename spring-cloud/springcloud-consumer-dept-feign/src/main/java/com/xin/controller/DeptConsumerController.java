@@ -19,7 +19,7 @@ import java.util.List;
 public class DeptConsumerController {
 
     @Autowired
-    private DeptClientService service=null;
+    private DeptClientService service=null; //有点小问题，待解决
 
     @RequestMapping("/consumer/dept/add")
     public boolean add(Dept dept){
