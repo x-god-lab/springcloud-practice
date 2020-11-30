@@ -2,7 +2,7 @@ server:
   port: 8003
 #mybatis配置
 mybatis:
-  type-aliases-package: com.xin.pojo
+  type-aliases-package: com.com.xin.pojo
   mapper-locations: classpath:mybatis/mapper/*.xml
 
 spring:
@@ -25,5 +25,5 @@ eureka:
 
 #info配置
 info:
-  app.name: xin-springcloud
-  companyname: xin-blog-style
+  app.name: com.xin-springcloud
+  companyname: com.xin-blog-style

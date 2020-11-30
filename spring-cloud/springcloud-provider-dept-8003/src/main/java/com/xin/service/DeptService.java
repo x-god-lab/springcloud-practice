@@ -5,7 +5,7 @@ import com.xin.pojo.Dept;
 import java.util.List;
 
 /**
- * @author xin
+ * @author com.xin
  * @create 2020-11-26 18:40:58
  */
 public interface DeptService {

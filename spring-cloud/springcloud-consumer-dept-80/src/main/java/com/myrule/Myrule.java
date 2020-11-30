@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author xin
+ * @author com.xin
  * @create 2020-11-30 17:59:33
  */
 @Configuration

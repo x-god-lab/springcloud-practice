@@ -12,7 +12,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.List;
 
 /**
- * @author xin
+ * @author com.xin
  * @create 2020-11-27 00:33:59
  */
 @RestController

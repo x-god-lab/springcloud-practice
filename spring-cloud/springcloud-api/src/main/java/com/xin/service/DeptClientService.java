@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import java.util.List;
 
 /**
- * @author xin
+ * @author com.xin
  * @create 2020-11-30 18:48:30
  */
 @Component

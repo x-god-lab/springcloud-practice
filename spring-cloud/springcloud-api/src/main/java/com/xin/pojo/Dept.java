@@ -8,7 +8,7 @@ import lombok.experimental.Accessors;
 import java.io.Serializable;
 
 /**
- * @author xin
+ * @author com.xin
  * @create 2020-11-26 17:50:51
  */
 @Data
