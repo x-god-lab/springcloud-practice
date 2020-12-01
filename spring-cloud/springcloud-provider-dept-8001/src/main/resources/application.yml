@@ -2,7 +2,7 @@ server:
   port: 8001
 #mybatis配置
 mybatis:
-  type-aliases-package: com.com.xin.pojo
+  type-aliases-package: com.xin.pojo
   mapper-locations: classpath:mybatis/mapper/*.xml
 
 spring:
